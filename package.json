@@ -1,0 +1,17 @@
+{
+  "name": "boilerplate-express",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fcc-express-bground": "github:freeCodeCamp/fcc-express-bground-pkg"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
